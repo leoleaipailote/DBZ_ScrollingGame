@@ -1,0 +1,31 @@
+- Description of Theme
+
+The Dragon Ball scrolling game is inspired by the hit Japanese manga and anime series of the same name from the 1990s. It features Goku who is the 
+main character in the anime, Frieza, who is one of the main villains in the series, saibamen, Frieza's underlings, Dragon balls, and Senzu beans.
+This game attempts to emulate the nostalgic feeling of playing as Goku and fighting various villains in the show on his quest for the Dragon Balls.
+
+- Details of Custom Features
+
+In the original scrolling game, there were only three type of consumables - Avoids, Gets, RareGets. I have added an extra consumable known as a
+RareAvoid, which takes the form of Frieza, who does double the damage of regular avoids, and is worth more points. This brings me to the next
+custom feature. Originally, the aim of the game was to get the Gets and avoid the Avoids, but in my game, whose theme revolves around combat,
+the Player must actively destroy Avoids(Frieza and Saibamen) in order to gain points. Gets no longer give points in my game but give the player
+additional resources to help them achieve their goal. In order for Goku to destroy his enemies, I have given him a new feature which involves
+shooting projectiles(in the form of Ki blasts). These destroy regular Avoids(Saibamen) in one hit, awarding the player 20 points, and destroy
+the RareAvoids(Frieza) in two, awarding 40 points. However, Goku does not have infinite energy, which is why there is a finite amount of ammunition
+he starts off with at the game, which is 10 shots. After this, the player must collect the Gets(Dragon Balls) in order to replenish their ammunition,
+with each Get awarding the player 2 additional shots to fire. The RareGets(taking the form of Senzu beans which are used to heal Goku in the actual
+anime), serve a similar purpose to the original RareGet, giving Goku one additional HP, but does not award any points. I have also included additional
+splash screens at the end of the game which depend on the win/lose condition that is met. The background screen is an image of planet Namek, which is
+the place where Goku's battles with Frieza take place in the original anime. Wheras, the game introduction splash screen is an image of Kami House - the
+place where Goku and his friends hang out when they are training and having fun.
+
+- Win/Lose Condition
+The win condition in my game remains the same as the original: gain 300 points. Likewise, the lose condition is also the same: if the player runs out
+of HP, they die.
+
+- Sources
+Theme: Dragon Ball, Dragon Ball Z by Akira Toriyama
+Images: Kami House art by tohad.artstation.com, Goku pixel art (https://pngset.com/download-free-png-cordw),
+and the rest are from Google taken straight from the anime.
+
